@@ -6,6 +6,6 @@ jobs:
        - "3.8"
       arch: amd64
       dist: focal
-      token: $KEY_PAIR
+      token: 8BFU4HjN5yy9pJPqkOvweA
       script:
         - python hello_world.py
